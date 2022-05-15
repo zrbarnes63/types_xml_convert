@@ -7,8 +7,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -21,8 +21,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -35,8 +35,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -49,8 +49,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -63,8 +63,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -77,8 +77,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -91,8 +91,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <value name="Tier2"/>
@@ -108,8 +108,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -122,8 +122,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -136,8 +136,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -150,8 +150,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -164,8 +164,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -178,8 +178,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -192,8 +192,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -206,8 +206,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -220,8 +220,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -234,8 +234,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -248,8 +248,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -263,8 +263,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -278,8 +278,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -293,8 +293,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -308,8 +308,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -323,8 +323,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -341,8 +341,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -359,8 +359,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -377,8 +377,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -395,8 +395,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -413,8 +413,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -431,8 +431,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -446,8 +446,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -461,8 +461,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <value name="Tier2"/>
@@ -478,8 +478,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="military"/>
         <tag name="hunting"/>
@@ -496,8 +496,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -511,8 +511,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="floor"/>
         <tag name="civilian"/>
@@ -526,8 +526,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -540,8 +540,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -554,8 +554,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -568,8 +568,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -582,8 +582,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="civilian"/>
     </type>
@@ -596,8 +596,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -610,8 +610,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -624,8 +624,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -638,8 +638,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -652,8 +652,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -666,8 +666,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -680,8 +680,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -694,8 +694,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -708,8 +708,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -722,8 +722,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -736,8 +736,8 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-	<usage />
-	<value />
+		<usage />
+		<value />
 		<category name="tools" />
     </type>
     <type name="Kneepads_Jeans_Base">
@@ -749,8 +749,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -763,8 +763,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -777,8 +777,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -791,8 +791,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -805,8 +805,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -819,8 +819,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -833,8 +833,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -847,8 +847,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -861,8 +861,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -875,8 +875,8 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-	<usage />
-	<value />
+		<usage />
+		<value />
 		<category name="tools" />
     </type>
 	<type name="SkullMask">
@@ -888,8 +888,8 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-	<usage />
-	<value />
+		<usage />
+		<value />
 		<category name="tools" />
     </type>
     <type name="Slouch_Hat_Brown">
@@ -901,8 +901,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
         <tag name="hunting"/>
@@ -916,8 +916,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="tools"/>
         <tag name="civilian"/>
         <tag name="fishing"/>
@@ -931,8 +931,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -945,8 +945,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -959,8 +959,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -973,8 +973,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -987,8 +987,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
@@ -1001,12 +1001,12 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
-            <type name="Skinny_Jeans_Blue">
+        <type name="Skinny_Jeans_Blue">
         <nominal>10</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -1015,12 +1015,12 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
-                <type name="Tactical_Leg_Holster_Black">
+        <type name="Tactical_Leg_Holster_Black">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -1029,8 +1029,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="clothes"/>
         <tag name="police"/>
         <tag name="military"/>
@@ -1040,7 +1040,7 @@
         <value name="Tier4"/>
     </type>
         </type>
-            <type name="Scarf_Brown">
+        <type name="Scarf_Brown">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -1049,12 +1049,12 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
-            <type name="Scarf_ColorPalette1">
+        <type name="Scarf_ColorPalette1">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -1063,12 +1063,12 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>
-            <type name="Scarf_Blue">
+        <type name="Scarf_Blue">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -1077,8 +1077,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	<usage />
-	<value />
+        <usage />
+        <value />
         <category name="containers"/>
         <tag name="civilian"/>
     </type>

@@ -19,8 +19,13 @@ def main():
                 checkFlags = re.search("<flags", line)
                 if checkFlags != None:
                     outFile.write(line)
-                    outFile.write("\t<usage />\n")
-                    outFile.write("\t<value />\n")
+                    usageLine = valLine = re.split('<', line)
+                    usageLine[1] = "usage />\n"
+                    usageLine = '<'.join(usageLine)
+                    outFile.write(usageLine)
+                    valLine[1] = "value />\n"
+                    valLine = '<'.join(valLine)
+                    outFile.write(valLine)
                 elif checkUsage != None:
                     line = re.split("\"", line)
                     # which clothing type
